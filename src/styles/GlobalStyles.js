@@ -23,5 +23,9 @@ export const GlobalStyles = createGlobalStyle`
         text-decoration: none;
         color: inherit;
     }
+        body{
+        font-family: 'Barlow Semi Condensed';
+        background-color: #ECF2F8;
+}
 
 `;
